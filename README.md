@@ -1,5 +1,8 @@
-Hey 😄! My name is Anas Siddiqui. I'm a dev from Pakistan
+Hey 😄! My name is Anas Siddiqui. 
+
+I'm a dev from Pakistan
 I am a Software Developer
+
 🔭 Just started writing blogs
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to collaborate and learn the world of open source
